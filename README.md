@@ -1,6 +1,4 @@
-# cruk-python
- 
-# cruk-python
+
  # CRUK Python Recruitment Assignment
 
 ### Functional Requirements
